@@ -1,1 +1,1 @@
-this is a cpp class to solving kuramoto model
+This is a cpp class to solve the kuramoto model
